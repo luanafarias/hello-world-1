@@ -1,8 +1,6 @@
 # hello-world
 O clássico Hello World
 
-Kauã Vidal esteve aqui!!!
-
 Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) do Markdown.
 
 
@@ -10,11 +8,7 @@ Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Mark
 
 [Guia Hello World](https://guides.github.com/activities/hello-world/)
 
-### Kauã
-[:mount_fuji:](https://gist.github.com/rxaviers/7360908)
+[:godmode:](https://gist.github.com/rxaviers/7360908)
 
-### Marcos
-[:dragon_face:](https://gist.github.com/rxaviers/7360908)
-
-### Matheus
-[:guardsman:](https://gist.github.com/rxaviers/7360908)
+##luana
+[:meat_on_bone:](https://gist.github.com/rxaviers/7360908)
